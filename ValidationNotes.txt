@@ -1,0 +1,12 @@
+K - 30/4/2014 valuation
+HL MM SS: OK
+AP Leaders: difference is numerical noise - OK
+Newton Asian Income: OK across F&S + ISA
+FS Global EM: difference is numerical noise - OK
+GLG Tech A: 0.26 remaining after conversion
+!!! GLG Tech: unexplained 3670.849 vs 3671.334 (error on HL's part)
+Liontrust R: noise remaining after conversion - OK
+Liontrust I: OK
+Jp CoreAlpha: OK
+Schroder UK Z: OK
+Schroder UK A: minor error
